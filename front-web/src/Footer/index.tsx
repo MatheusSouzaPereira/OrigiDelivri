@@ -8,8 +8,9 @@ function Footer() {
     <footer className="main-footer">
       App desenvolvido durante a 2ª ed. do evento Semana DevSuperior
       <div className="footer-icons">
-        <a href="https://www.youtube.com/" target="_new"></a>
-        <YoutubeIcon />
+        <a href="https://www.youtube.com/" target="_new">
+          <YoutubeIcon />
+        </a>
         <a
           href="https://www.linkedin.com/in/matheus-souza-pereira-da-silva/"
           target="_new"

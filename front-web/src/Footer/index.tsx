@@ -17,7 +17,10 @@ function Footer() {
         >
           <LinkedinIcon />
         </a>
-        <a href="#" target="_new">
+        <a
+          href="https://www.linkedin.com/in/matheus-souza-pereira-da-silva/"
+          target="_new"
+        >
           <InstagramIcon />
         </a>
       </div>
